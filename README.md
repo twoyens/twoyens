@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twoyens
-- 👀 I’m interested in hanging out, coding, watching film, texting, playing game,...
+- 👀 I’m interested in hanging out, watching film, texting, playing game,...
 - 🌱 I’m currently learning Computer Science at University of Information Technology, HCMC
 - 💞️ I’m not looking to collaborate.
 - 📫 Gmail: 23521846@gm.uit.edu.vn
